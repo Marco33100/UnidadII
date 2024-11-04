@@ -8,6 +8,28 @@ Se simula el nivel de agua controlado con un potenciómetro. Dependiendo del niv
 
 ## Ejercicios propuestos en clase
 
+#### Descripcion de los botones con luces led:
+Se realizo una conexion de un boton con una luz led donde se si presionaba el boton el led encendia.
+
+Descripcion del servo:
+Se realizo una conexion con el servo donde este se tendria que abrir 180° y luego regresar a su posicion original por un ciclo while.
+
+Descripcion del sensor de proximidad y luces led como semáforo
+Con el sensor de proximidad simular un semaforo donde si estas muy cerca este en verde si te alejas a cierta distancia se pone amarillo y ya si esta lejos ya es rojo
+
+Descripcion del buzzer
+
+
+Descripcion de la pantalla oled y el potenciómetro
+
+Descripcion de la matriz de leds
+
+Descripcion de la matriz de leds uno sin sensor y otro con sensor de proximidad
+
+Descripcion del motor de pasos
+
+Descripcion del joystick y el led RGB
+
 
 ## Avance del proyecto navideño
 
