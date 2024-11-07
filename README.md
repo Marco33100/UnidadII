@@ -65,6 +65,10 @@ Se realizo una practica donde al mover el joystick hacia arriba, abajo, derecha 
 https://drive.google.com/drive/folders/1HxE1msjL7opMIHll7sSB6dm6yQcb3Hev?usp=drive_link
 
 ## Avance del proyecto navideño
+https://drive.google.com/file/d/1GI8q2Ki4ZQNJwlUtitCr_bWm1k1aW04S/view?usp=drive_link
+
+#### Descripción del avance navideño
+Los avances navideños fueron que se logro poner música al diseño, tambien se logro añadir motor de pasos que sustituiria el servo remplazando el movimiento del muñeco ademas que se logro poner leds rgb simulando las series del arbol de navidad
 
 ## Curso Python
 https://drive.google.com/drive/folders/1easDc61KsqXMvJ2OrzwuDzb0_lzfCdmt?usp=sharing
