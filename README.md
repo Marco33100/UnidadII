@@ -14,6 +14,9 @@ https://drive.google.com/file/d/1WQi5IaPbJM8dS1Ss0uIqJGY_mQQjir8E/view?usp=drive
 #### Descripcion de los botones con luces led:
 Se realizo una conexion de un boton con una luz led donde se si presionaba el boton el led encendia.
 
+#### Practica:
+https://drive.google.com/file/d/1AP1yCOzRrUoG80H1KnADlyNv920NyU6l/view?usp=drive_link
+https://drive.google.com/file/d/1Bmy-wVDE4eqEBjIyDN7tBb4leLpfcc2a/view?usp=drive_link
 
 #### Descripcion del servo:
 Se realizo una conexion con el servo donde este se tendria que abrir 180° y luego regresar a su posicion original por un ciclo while.
